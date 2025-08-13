@@ -1,1 +1,1 @@
-& docker build --tag schicksoftware/dotnet8.0-jre17-nodejs20.0 --file build/docker/build_server.docker .
+& docker build --tag schicksoftware/dotnet8.0-jre21-nodejs22.0 --file build/docker/build_server.docker .
